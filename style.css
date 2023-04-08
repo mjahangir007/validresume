@@ -1,0 +1,217 @@
+.former1{
+    background-color: #303c47;
+    display: grid;
+    grid-template-columns: 25% 45% 30%;
+}
+.img{
+    padding-left: 90px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.title-bar{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.line{
+    color: white;
+    background-color: white;
+    width: 70%;
+    height: 2px;
+    align-items: center;
+}
+.title-bar2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+.reach{
+    color: white;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.reach{
+    display: grid;
+    grid-column: auto;
+}
+.phone{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+.mail{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+.location{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+.data{
+    display: grid;
+    grid-template-columns: 50% 1fr;
+}
+.left{
+    background-color: white;
+}
+.about{
+    background-color: #838f9b;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+    width: fit-content;
+}
+.para{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    /* width: 320px; */
+    margin-left: 50px;;
+}
+.Education{
+    background-color: #838f9b;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:10px;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    margin-left: 50px;
+    width: fit-content;
+}
+.edulist{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    /* width: 320px; */
+    margin-left: 50px;
+}
+.Experience{
+    background-color: #838f9b;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:10px;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    margin-left: 50px;
+    width: fit-content;
+}
+.Epara{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    /* width: 320px; */
+    margin-left: 50px;
+}
+.expro{
+    background-color: #838f9b;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+    width:fit-content;
+}
+.expara{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    /* width: 320px; */
+    margin-left: 50px;
+}
+.right{
+    background-color: #f8f8f8;
+}
+.skill{
+    background-color: #838f9b;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+    width:fit-content;
+}
+.skillpara{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    /* width: 320px; */
+    margin-left: 50px;
+}
+.Certificates{
+    background-color: #838f9b;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:10px;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    margin-left: 50px;
+    width:fit-content;
+}
+.certpara{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    /* width: 320px; */
+    margin-left: 50px;
+}
+.extra{
+    background-color: #838f9b;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:10px;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    margin-left: 50px;
+    width:fit-content;
+}
+.extrapara{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    /* width: 320px; */
+    margin-left: 50px;
+    font-weight: bold;
+}
+.hobby{
+    background-color: #838f9b;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:10px;
+    padding-right: 30px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    margin-left: 50px;
+    width:fit-content;
+}
+.hobpara{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    /* width: 320px; */
+    margin-left: 50px;
+}
+.foot{
+    background-color: #838f9b;
+    display: block;
+    height: 15px;
+}
+.footer{
+    background-color: #303c47;
+    display: block;
+    height: 30px;
+}
